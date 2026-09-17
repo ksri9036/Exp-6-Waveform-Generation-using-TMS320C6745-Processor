@@ -118,7 +118,8 @@ void main() {
 ```
 # OUTPUT
 
-<img width="1376" height="768" alt="Gemini_Generated_Image_fsmp8nfsmp8nfsmp" src="https://github.com/user-attachments/assets/8b46b2d4-78bc-4030-84a5-3d8250b84a13" />
+<img width="760" height="257" alt="Screenshot 2026-09-17 105516" src="https://github.com/user-attachments/assets/3e9b8ebb-3990-4d13-9626-1e8b6a2004ad" />
+
 
 
 # RESULT
